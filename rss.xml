@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Amy Gohal]]></title>
         <description><![CDATA[Amy Gohal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/amygohal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 04:51:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 04:56:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/amygohal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Slave Ariel 1]]></title>
+            <description><![CDATA[<article><h1>Slave Ariel 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5db1d4b-9690-4eee-8966-36043fbb949b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/amygohal/slave-ariel-1/index.html</link>
+            <guid isPermaLink="false">e75d6d2f-5bdb-4025-b307-519ce03161a8</guid>
+            <pubDate>Sat, 16 Apr 2016 04:56:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00d24d5d-89aa-4e70-9bef-692b76b30aef.jpg">]]></description>
-            <link>undefinedab124fbc-6c96-41e1-9087-28c613d96776/index.html</link>
+            <link>https://thegrid.ai/amygohal/ab124fbc-6c96-41e1-9087-28c613d96776/index.html</link>
             <guid isPermaLink="false">ab124fbc-6c96-41e1-9087-28c613d96776</guid>
             <pubDate>Sat, 16 Apr 2016 04:51:12 GMT</pubDate>
         </item>
